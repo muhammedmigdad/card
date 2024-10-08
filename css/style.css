@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+section.wrapper{
+	width: 80%;
+	margin: 0 auto;
+}
+
+ section.one{
+	background-image:  url(../image/craditcard.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+	
+} 
+section.two{
+	background-image: url(../image/bg-one.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center bottom;
+}
+/* div.one{
+	background-color: rgba(0, 0, 0, .3);
+	width: 940px;
+} */
